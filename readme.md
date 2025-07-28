@@ -1,54 +1,51 @@
-# 👋 Hi, I'm Praneeth!
-🚀 **Researcher** | 🧠 **Generative AI**  | 📸 **Computer Vision** | 🚇📊 **Transit Data**
+# 👋 Hi, I'm Florian!
+🚀 **Full Stack Engineer** | 🧠 **JavaScript**  | 📸 **Python** | 🚇📊 **DevOps/Cloud**
 
-## 🔭 Research Projects
+---
 
-- **🚍 [TransitGPT](https://github.com/UTEL-UIUC/TransitGPT):**
-  A conversational AI chatbot to enhance transit data accessibility using Large Language Models (LLMs).
-  
-- **🚏 [GTFS-segments](https://github.com/UTEL-UIUC/gtfs_segments):**
-  A fast and efficient library for generating bus stop spacings from General Transit Feed Specification (GTFS) data.
-  
-- **🅿 [ParkingLot Segmentation](https://github.com/UTEL-UIUC/ParkSeg12k):**
-  A dataset and NIR-enhanced technique for parking lot segmentation using satellite imagery.
-  
-- **🏨 [CrackSeg9k](https://github.com/Dhananjay42/crackseg9k):**
-  A dataset and model for detecting and segmenting pavement cracks to assist in infrastructure maintenance.
+👨‍💻 About Me
 
-## 🌱 Skills & Interests
+I'm a Senior Full Stack Developer with 7+ years of experience building scalable, high-performance platforms across SaaS, e-commerce, and real-time applications.
 
-- **AI & ML:**  
-  Proficient in Large Language Models (LLMs), Natural Language Processing (NLP), Computer Vision (CV), and optimization techniques.
-- **Data Analysis:**  
-  Experienced with Python, SQL, and R for data manipulation and analysis.
-- **Software:**  
-  Skilled in software development with a focus on creating practical, efficient, and scalable solutions.
-## 📫 How to Reach Me
+🔍 Focused on Python, React, Node.js, and cloud-native development
 
-- **LinkedIn:** [linkedin.com/in/praneethd7](https://www.linkedin.com/in/praneethd7/)
-- **AlphaXiv:** [https://praneethd7.alphaxiv.io/](https://praneethd7.alphaxiv.io/)
-- **Email:** sd37@illinois.edu
-  
-## 💡 Fun Facts
+⚡ Known for delivering clean, testable code and intuitive user interfaces
 
-- I enjoy playing pickleball 🏓.  
-- Fluent in Hindi with a Hyderabadi dialect 🇮🇳.  
-- Avid listener of 'Jo Bheji Thi Dua' 🎶.
+☁️ DevOps-savvy: Docker, Kubernetes, CI/CD, AWS, Terraform
 
+🧠 Exploring AI, LLMs, and automation tools
 
+🌎 Based in Netherlands or European Union | Open to fully remote roles
 
+---
+#### :computer: Programming languages and tools: 
+<p>
+  <!--
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+  -->
 
-<!--
-**praneethd7/praneethd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mui/mui-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
