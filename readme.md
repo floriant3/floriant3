@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kaimatsuda29"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Export;Web%20and%20AI/ML%20master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Expert;DevOps%20and%20Cloud%20Master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
 </p>
 
 ---
