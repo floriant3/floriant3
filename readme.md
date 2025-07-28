@@ -3,9 +3,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/kaimatsuda29"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Export;Web%20and%20AI/ML%20master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
+</p>
+
+---
 👨‍💻 About Me
 
-I'm a Senior Full Stack Developer with 7+ years of experience building scalable, high-performance platforms across SaaS, e-commerce, and real-time applications.
+I'm a Senior Full Stack Developer with 10+ years of experience building scalable, high-performance platforms across SaaS, e-commerce, and real-time applications.
 
 🔍 Focused on Python, React, Node.js, and cloud-native development
 
@@ -20,10 +26,6 @@ I'm a Senior Full Stack Developer with 7+ years of experience building scalable,
 ---
 #### :computer: Programming languages and tools: 
 <p>
-  <!--
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-  -->
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
